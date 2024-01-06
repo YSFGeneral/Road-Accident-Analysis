@@ -34,6 +34,11 @@ Client wants to create a Road Accident Dashboard for year 2021 and 2022 so that 
 ## Skills
 
 Microsoft Excel is used throughout the project
+- Data Cleaning and Processing
+- Pivot Table
+
+## Data Sheet
+![](Data_sheet.png)
 
 ## Data Visualization
 
