@@ -45,6 +45,7 @@ Microsoft Excel is used throughout the project
 Build some custom charts using some formatting and place them into dashboard. The report comprises of 2 pages:
 1.	Data Analysis Sheet and different KPIs
 2.	Dashboard
+
 You can [view](https://1drv.ms/x/s!AnWH7uDNTUCQglnmR7nyIeZQJcdm) and interact with the report [here](https://1drv.ms/x/s!AnWH7uDNTUCQglng0dMJgzf-PCGp)
 
 ## Data Analysis asheet with KPIs
